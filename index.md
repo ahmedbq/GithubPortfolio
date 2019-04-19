@@ -14,7 +14,7 @@ More on the personal side, I also love learning how to cook new foods, exercise,
 
 ## Interests
 
-I have a problem of having an interest in holding/understanding too many skillsets. Although I work with web services, I do have a liking for machine learning, robotics, embedded systems, virtual reality, etc. Imagine developing something which you can touch or feel! 
+I have a problem of having an interest in too many things. Although I work with web services, I do have a liking for machine learning, robotics, embedded systems, virtual reality, etc. Imagine developing something which you can touch or feel! 
 
 To get down to the nit-gritty, here is the summary of my skills:
 
