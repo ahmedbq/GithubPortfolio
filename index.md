@@ -1,15 +1,18 @@
 ## Ahmed Qureshi
 
-Hi! I'm currently a software developer specialized in back-end Java RESTful Web Services/API. I have 2 bachelor's degrees, (1) B.S. in Computer Science from SUNY Old Westbury and (2) B.S. in Biology from SUNY Stony Brook. 
+Hi! I'm currently a software developer specialized in back-end Java RESTful Web Services/API. I hold 2 bachelor's degrees, (1) B.S. in Computer Science from SUNY Old Westbury and (2) B.S. in Biology from SUNY Stony Brook. 
 
 ### Who am I?
 
-I was born and raised in NY where my family resides, and I am currently working in CT. There are a multitude of things I like to do! Of course, I love improving my skillset and building code from scratch. But more on the personal side, I also love learning how to cook new foods, exercise, spend time with family/friends, swimming, outside activities, gaming and more!
+I was born and raised in NY where my family resides, and currently working in CT. There are a multitude of things I like to do! I love improving my skillset and building code from scratch. In terms of professional development, I try to learn how to simplify and modularize my code further, without sacrificing speed or readability.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+More on the personal side, I also love learning how to cook new foods, exercise, spend time with family/friends, swimming, outside activities such as paintball, gaming and more!
+
+To get down to the nit-gritty, here is the summary of my skills:
+
+##Skills
 
 ```
-# `Skills`
 
 - Java
 - Spring Framework
