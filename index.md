@@ -1,29 +1,24 @@
 ## Ahmed Qureshi
 
-You can use the [editor on GitHub](https://github.com/ahmedbq/GithubPortfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! I'm currently a software developer specialized in back-end Java RESTful Web Services/API. I have 2 bachelor's degrees, (1) B.S. in Computer Science from SUNY Old Westbury and (2) B.S. in Biology from SUNY Stony Brook. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Who am I?
 
-### Markdown
+I was born and raised in NY where my family resides, and I am currently working in CT. There are a multitude of things I like to do! Of course, I love improving my skillset and building code from scratch. But more on the personal side, I also love learning how to cook new foods, exercise, spend time with family/friends, swimming, outside activities, gaming and more!
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+```
+# `Skills`
 
-# Header 1
-## Header 2
-### Header 3
+- Java
+- Spring Framework
+- Spring Boot
+- Hibernate
+- JUnit
+- SQL
+- Git
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details, [download my resume](#).
