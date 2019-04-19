@@ -1,6 +1,8 @@
 # Ahmed Qureshi
 
-Hi! I'm currently a software developer specialized in back-end Java RESTful Web Services/API. I hold 2 bachelor's degrees, (1) B.S. in Computer Science from SUNY Old Westbury and (2) B.S. in Biology from SUNY Stony Brook. 
+Hi! I'm currently a software developer specialized in back-end Java RESTful Web Services/API. 
+
+I hold 2 bachelor's degrees, (1) B.S. in Computer Science from SUNY Old Westbury and (2) B.S. in Biology from SUNY Stony Brook. 
 
 ## Who am I?
 
