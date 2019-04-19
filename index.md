@@ -26,10 +26,10 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details, [download my resume](#).
 
 You can also check out my [Github](https://github.com/ahmedbq), for my latest side projects/contributions!
 
 ### Contact Information
-- [linkedIn](https://www.linkedin.com/in/ahmed-qureshi-765060105/)
+- [LinkedIn](https://www.linkedin.com/in/ahmed-qureshi-765060105/)
 - ahmedbq1993@gmail.com
