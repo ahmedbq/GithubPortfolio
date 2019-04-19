@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Ahmed Qureshi
 
 You can use the [editor on GitHub](https://github.com/ahmedbq/GithubPortfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -28,10 +28,8 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+You can also check out my [Github](https://github.com/ahmedbq), for my latest side projects/contributions!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ahmedbq/GithubPortfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact Information
+- [linkedIn](https://www.linkedin.com/in/ahmed-qureshi-765060105/)
+- ahmedbq1993@gmail.com
