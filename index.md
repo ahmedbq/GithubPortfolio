@@ -8,7 +8,7 @@ I hold 2 bachelor's degrees:
 
 ## Who am I?
 
-I was born and raised in NY where my family resides, and currently working in CT. There are a multitude of things I like to do! I love improving my skillset and building code from scratch. In terms of professional development, I try to learn how to simplify and modularize my code further, without sacrificing speed or readability.
+I was born and raised in NY where my family resides, and currently working as a software engineer. There are a multitude of things I like to do! I love improving my skillset and building code from scratch. In terms of professional development, I try to learn how to simplify and modularize my code further, without sacrificing speed or readability.
 
 More on the personal side, I also love learning how to cook new foods, exercise, spend time with family/friends, swimming, outside activities such as paintball, gaming and more!
 
@@ -21,14 +21,9 @@ To get down to the nit-gritty, here is the summary of my skills:
 ## Skills
 
 ```
-
-- Java
-- Spring Framework
-- Spring Boot
-- Hibernate
-- JUnit
-- SQL
-- Git
+- Python, Flask, Flask-RESTful, SQLAlchemy
+- Java, Spring, Spring Boot, Hibernate, JUnit
+- DataRobot, Pandas (Python), Red Hat OpenShift, SQL, Git
 
 ```
 
