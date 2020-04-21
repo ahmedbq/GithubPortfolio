@@ -23,7 +23,7 @@ To get down to the nit-gritty, here is the summary of my skills:
 ```
 - Python, Flask, Flask-RESTful, SQLAlchemy
 - Java, Spring, Spring Boot, Hibernate, JUnit
-- DataRobot, Pandas (Python), Red Hat OpenShift, SQL, Git
+- DataRobot, Pandas (Python), Red Hat OpenShift
 
 ```
 
