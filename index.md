@@ -1,8 +1,6 @@
 ## Hello!
 
-Hi! I'm currently a software developer specialized in back-end Java RESTful Web Services/API. 
-
-I hold 2 bachelor's degrees: 
+Hi! I'm a software developer who holds 2 bachelor's degrees: 
 1. B.S. in Computer Science from SUNY Old Westbury 
 2. B.S. in Biology from SUNY Stony Brook. 
 
